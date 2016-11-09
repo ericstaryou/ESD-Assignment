@@ -41,7 +41,7 @@ public class UserServlet extends HttpServlet {
             out.println("<h1>Servlet UserServlet at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");
-        }
+        } //TESTING BY ERIC!
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
